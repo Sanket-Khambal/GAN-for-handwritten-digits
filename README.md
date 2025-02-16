@@ -1,8 +1,6 @@
-Here's a **README** file for your project based on the provided report:  
 
----
 
-# Generative Adversarial Networks (GANs) for MNIST  
+# Generative Adversarial Networks (GANs) for handwritten digits 
 
 ## Introduction  
 This project implements **Generative Adversarial Networks (GANs)** to generate synthetic images of handwritten digits using the **MNIST dataset**. The GAN consists of a **generator** and a **discriminator**, which are trained through adversarial learning to improve the quality of generated images.  
